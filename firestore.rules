@@ -1,0 +1,11 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /documentos/{tipo}/{documentoId} {
+      allow read: if request.auth != null;
+      allow create: if request.auth != null && request.resource.data.tipo == tipo && request.resource.data.formato == 'pdf';
+      allow update: if request.auth != null && !resource.data.isRascunho;
+      allow delete: if request.auth != null && !resource.data.isRascunho;
+    }
+  }
+}

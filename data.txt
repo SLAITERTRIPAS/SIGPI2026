@@ -1,0 +1,76 @@
+1 António Cristo Pinto Madeira Masculino 03/02/1970 Manica Chimoio 118657721 070100093186I Doutorado Doutorado em Ensino de Química Professor Auxiliar docente Tempo inteiro Pertence ao quadro Moçambique
+2 António Tomé Mandala Masculino 17/07/1989 Solala Beira 110564597 070100862575J Doutorado Energias Renovaveis Assistente Universitário docente Tempo inteiro Pertence ao quadro Moçambique
+3 Abelízio Artiel F. Mutondo Masculino 06/09/1984 Zambézia Quelimane 108354453 701022390061I Mestre Ensino de Química DocenteN1 docente Tempo inteiro Pertence ao quadro Moçambique
+4 Adolfo Chauale Inácio Masculino 16/07/1997 Zambézia Maganja da Costa 133241523 070104017984B Licenciado Engenharia Civil Assistente Universitário docente Tempo inteiro Pertence ao quadro Moçambique
+5 Agostinho Fernando Mpfumo Masculino 13/12/1980 Maputo Cidade de Maputo 120891030 100100773739C Mestrado Engenharia Mecânica Assistente Universitário docente Tempo inteiro Pertence ao quadro Moçambique
+6 Aldo Klaus Ibraimo Ilal Masculino 25/01/1980 Maputo Cidade de Maputo 115420879 110101940958J Mestrado Economia e Gestão de Recursos Humanos Assistente, Escalão 1 docente Tempo inteiro Pertence ao quadro Moçambique
+7 Alfredo Silvério Majamanda Masculino 04/06/1985 Maputo Cidade de Maputo 104097987 0408011920300I Mestrado Engenharia em Ciencias de Estrutura Assistente Estagiario Escalão 3 docente Tempo inteiro Pertence ao quadro Moçambique
+8 António Renato Carlos Masculino 12/04/1995 Zambézia Nicuadala 159964582 070100230103C Licenciado Electrotécnia Assistente Universitário docente Tempo inteiro Pertence ao quadro Moçambique
+9 Bento João Cassongo Masculino 28/03/1994 Maputo Cidade de Maputo 115931253 110100423396I Mestrado Gestão de Sist. Energias Renováveis Assistente, Escalão 3 docente Tempo inteiro Pertence ao quadro Moçambique
+10 Camacho João Luís Alecho Masculino 28/11/1995 Manica Cidade de Chimoio 149858210 060104399357A Licenciado Electrotécnia Assistente Estagiário, Escalão 1 docente Tempo inteiro Pertence ao quadro Moçambique
+11 Chume Piter Nhanombe Masculino 23/09/1993 Maputo Cidade de Maputo 131171374 110102255361A Mestrado Engenharia de Estruturas Assistente Estagiário, Escalão 1 docente Tempo inteiro Pertence ao quadro Moçambique
+12 Celso Januário Bauque Masculino 29/09/1989 Gaza Chokue 107289305 090601468100C Celso Januário Baúque Mestrado Engenharia Civil docente Tempo inteiro Pertence ao quadro Moçambique
+13 Cipriano Irasmo da Silva Masculino 21/06/1993 Nampula Nampula 112284524 030101005215I Mestrado Engenharia de Estruturas Assistente, Escalão 1 docente Tempo inteiro Pertence ao quadro Moçambique
+14 Cláudio Zacarias Mathe Masculino 23/11/1977 Maputo Cidade de Maputo 119096235 110302317425C Licenciado Matemática Aplicada Assistente Estagiario, Escalão 3 docente Tempo inteiro Pertence ao quadro Moçambique
+15 Coutinho João Mataca Masculino 11/02/1985 Maputo Cidade de Maputo 110688881 100100367339B Mestrado Matemática Aplicada a Engeharia Assistente, Escalão 2 docente Tempo inteiro Pertence ao quadro Moçambique
+16 Crêspo Boaventura José Masculino 28/04/1988 Zambézia Mocuba 106866678 020100086947B Mestrado Engenharia Informática Assistente Estágiario, Escalão 3 docente Tempo inteiro Pertence ao quadro Moçambique
+17 Cristo Jaime Daniel Banda Masculino 28/10/1984 Tete Angónia 105100973 110104299545J Licenciado Inglês Assistente Estágiario, Escalão 3 docente Tempo inteiro Pertence ao quadro Moçambique
+18 Dércio Augusto José Maria Masculino 15/06/1984 Maputo Cidade de Maputo 117598527 110102284661M Licenciado Económia Assistente Estagiário, Escalão 1 docente Tempo inteiro Pertence ao quadro Moçambique
+19 Edelino Guilherme Foquiço Masculino 22/01/1985 Inhambane Inhambane 109731285 110104685078P Mestrado Engenharia de Hidraulica Assistente Estagiário, Escalão 3 docente Tempo inteiro Pertence ao quadro Moçambique
+20 Edite Carlos Cuamba Masculino 05/05/1990 Inhambane Maxixe 104984150 110200483837M Licenciado Inglês Assistente Estagiário, Escalão 2 docente Tempo inteiro Pertence ao quadro Moçambique
+21 Edvaldo António Sigauque Masculino 11/05/1986 Maputo Cidade de Maputo 109500471 110101316441P Licenciado Inglês Assistente Estagiário, Escalão 3 docente Tempo inteiro Pertence ao quadro Moçambique
+22 Esmael Alberto Muavanhane Masculino 15/10/1992 Tete Cidade de Tete 114319694 050100758935P Licenciado Engenharia Mecâtronica Assistente Estagiário, Escalão 2 docente Tempo inteiro Pertence ao quadro Moçambique
+23 Faria Joaquim Luís Masculino 22/07/1990 Maputo Cidade de Maputo 110145489 110104685080J Mestrado Engenharia de Hidraúlica Assistente Escalão 1 docente Tempo inteiro Pertence ao quadro Moçambique
+24 Francisco Viera Masculino 15/01/1961 Inhambane Chilengue 101001105 110100142612P Dotoramento Geologia Petrolífera Professor Auxiliar docente Tempo inteiro Pertence ao quadro Moçambique
+25 Félix Eusébio Banze Masculino 13/05/1984 Maputo Cidade de Maputo 108675421 110100368021P Dotoramento Engenharia Hidraúlica Professor Auxiliar, Escalão 1 docente Tempo inteiro Pertence ao quadro Moçambique
+26 Félix Mateus Masculino 05/08/1986 Maputo Cidade de Maputo 110536496 110101779859C Mestrado Ciências de Controlo Eléctrico Assistente, Escalão 1 docente Tempo inteiro Pertence ao quadro Moçambique
+27 Fernando Agostinho Dzeco Masculino 09/04/1975 Maputo Cidade de Maputo 107379002 110400149765B Mestrado Energias Renováveis Assistente docente Tempo inteiro Pertence ao quadro Moçambique
+28 Fernando Salvador Augusto Tacho Masculino 12/10/1991 Maputo Cidade de Maputo 109847844 11010593309I Mestrado Gestão de Sist. Energias Renováveis Assistente docente Tempo inteiro Pertence ao quadro Moçambique
+29 Fernando Sávio Santos Masculino 14/08/1991 Tete Tete 111166854 0501004587691F Licenciado Engenharia Civil Assistente Estagiário docente Tempo inteiro Pertence ao quadro Moçambique
+30 Gércio Bernardo Chaibande Masculino 01/12/1990 Manica Cidade de Chimoio 108740795 060101914808B Licenciado Arquitetura e Planeamento Físico Assistente docente Tempo inteiro Pertence ao quadro Moçambique
+31 Guerra Francisco Raposo Chimoio Masculino 11/12/1982 Maputo Cidade de Maputo 113699957 110100591869A Licenciado Licenciado Assistente docente Tempo inteiro Pertence ao quadro Moçambique
+32 Guift Cangremo Pinho Masculino 15/08/1981 Maputo Cidade de Maputo 113676310 110304221215C Mestrado Engenharia Mecânica Assistente docente Tempo inteiro Pertence ao quadro Moçambique
+33 Ibraimo Richard Rachid Masculino 31/08/1993 Manica Chimoio 163528207 060104581630C Licenciado Engenharia Mecânica Assistente Estagiário Escalão 1 docente Tempo inteiro Pertence ao quadro Moçambique
+34 Idalécio Pascoal Joaquim Masculino 23/04/1984 Inhambane Inhambane 110000332 080100052432M Mestrado Ciências Geografia Assistente Escalão 1 docente Tempo inteiro Pertence ao quadro Moçambique
+35 Ilídio Luís Magenge Masculino 06/04/1990 Maputo Cidade de Maputo 116454238 110100723390I Licencido Engenharia Civil Assistente Estagiário Escalão 1 docente Tempo inteiro Pertence ao quadro Moçambique
+36 Iolanda Maria Arnaldo Bambo Femenino 25/11/1989 Inhambane Inhambane 129879475 110102274576J Mestrado Engenharia Civil e Ambiente Assistente Escalão 1 docente Tempo inteiro Pertence ao quadro Moçambique
+37 Isabel de Oliveira Freitas Femenino 21/08/1986 Zambézia Quelimane 110890771 040100095066F Licenciada Oceanograria e História Politica e GP Assistente Estagiário Escalão 2 docente Tempo inteiro Pertence ao quadro Moçambique
+38 Isabel Salvador Zunguze Femenino 28//08/1989 Tete Cahora Bassa 107618112 050100420097N Licenciada Química Assistente Estagiário Escalão 3 docente Tempo inteiro Pertence ao quadro Moçambique
+39 João Manuel Simango Masculino 05/12/1979 Maputo Cidade de Maputo 105821891 Mestrado Gestão de Sist. Energias Renováveis Assistente Estagiário Escalão 3 docente Tempo inteiro Pertence ao quadro Moçambique
+40 Johane Renad Chinhacata Masculino 10/02/1982 Manica Sussundenga 110241763 050102035514A Licenciado Meteorologia Assistente Escalão 2 docente Tempo inteiro Pertence ao quadro Moçambique
+41 José Herculano Matsinhe Masculino 15/02/1981 Inhambane Inhambane 111133719 110101302778Y Mestrado Administração Pública Assistente Escalão 2 docente Tempo inteiro Pertence ao quadro Moçambique
+42 Kénedy Cipriano Silvério Masculino 10/07/1989 Zambezia Nicoadala 117745694 110104363291J Doutoramento Recursos Hidricos e Ambiente Professor Auxiliar, Escalão 2 docente Tempo inteiro Pertence ao quadro Moçambique
+43 Júlio Augusto Mussane Masculino 13/01/1987 Maputo Matola 110219903 050101820347A Mestrado Engenharia Mecânica Assistente Escalão 1 docente Tempo inteiro Pertence ao quadro Moçambique
+44 Justino Mário Buanali Masculino 28/03/1989 Nampula Nampula 110485913 1101004623138B Mestrado Matemática Aplicada Assistente Escalão 1 docente Tempo inteiro Pertence ao quadro Moçambique
+45 Juvenaldo Edi Chicra Pastola Masculino 10/04/1989 Nampula Nampula 111390916 030101361344I Mestrado Engenharia Mecânica de Refrigeração Assistente Escalão 1 docente Tempo inteiro Pertence ao quadro Moçambique
+46 Lucas Bernardo Tesoura Masculino 14/02/1982 Manica Barue 103924596 060101790815Q Mestrado Recursos Humanos Assistente Escalão 1 docente Tempo inteiro Pertence ao quadro Moçambique
+47 Lucas Martinho João Francisco Masculino 07/06/1992 Sofala Beira 114874418 070100686285P Licenciado Engenharia Mecatronica Docente N1 docente Tempo inteiro Pertence ao quadro Moçambique
+48 Lucas João Boene Masculino Maputo Cidade de Maputo 115288350 100102654127C Licenciado Física Assistente Estagiário Escalão 3 docente Tempo inteiro Pertence ao quadro Moçambique
+49 Luís Domingos Franque Masculino 06/12/1977 Manica Chimoio 113484012 11030126660Q Licenciado Matemática Educacional Assistente Escalão 1 docente Tempo inteiro Pertence ao quadro Moçambique
+50 Marcelino Maculua Cavo Masculino 07/12/1960 Maputo Manhiça 100175525 110100503751F Licenciado Economia Assistente Escalão 2 docente Moçambique
+51 Maliquito Feliciano Mazua Samuel Masculino 01/06/1993 Manica Chimoio 112297561 060100497693B Licenciado Engenharia Mecânica Assistente Estagiário Escalão 1 docente Tempo inteiro Pertence ao quadro Moçambique
+52 Manuel João da Costa Masculino 10/04/1976 Manica Chimoio 112463348 110101777183M Licenciado Física Assistente Estagiário Escalão 3 docente Tempo inteiro Pertence ao quadro Moçambique
+53 Maria Emília Xavier Escova Femenino 15/03/1986 Tete Cahora Bassa 109993281 110102090476B Licenciada Relações Internacionais e Diplomacia Assistente Estagiário Escalão 2 docente Tempo inteiro Pertence ao quadro Moçambique
+54 Mário Ventura Mondlane Masculino 05/05/1988 Maputo Cidade de Maputo 109478075 050104449281P Doutoramento Engenharia Mecânica Assistente Escalão 1 docente Tempo inteiro Pertence ao quadro Moçambique
+55 Nabote António Magaia Masculino 11/09/1981 Maputo Maracuene 110962142 081201038952B Mestrado Matemática Aplicada a Engenharia Assistente Escalão 2 docente Tempo inteiro Pertence ao quadro Moçambique
+56 Nataniel Domingos Cuinica Masculino 17/12/1991 Maputo Cidade de Maputo 113362235 080101783367M Licenciado Hotelaria e Turismo Assistente Estagiário Escalão 2 docente Tempo inteiro Pertence ao quadro Moçambique
+57 Nilsa Cármen Messias Matsinhe Femenina 10/05/1990 Maputo Cidade de Maputo 11655933 110201802732B Mestrado Gestão de Sist. Energias Renováveis Assistente Estagiário Escalão 3 docente Tempo inteiro Pertence ao quadro Moçambique
+58 Nordino Santos Machava Masculino 01/01/1979 Gaza Bilene 101016692 050102530613Q Mestrado Geologia/ Gestão Empresarial Assistente Escalão 2 docente Tempo inteiro Pertence ao quadro Moçambique
+59 Omar Samuel Sancura Masculino 17/03/1992 Nampula Nampula 110238541 030100752880B Licenciado Hotelaria e Turismo Assistente Estagiário Escalão 3 docente Tempo inteiro Pertence ao quadro Moçambique
+60 Paulino Adércio Manuela Cuna Masculino 12/03/1984 Niassa Mavago 132910006 110101019953312I Licenciado Matemática Assistente Estagiário Escalão 3 docente Tempo inteiro Pertence ao quadro Moçambique
+61 Paulino José Alberto Masculino 09/03/1992 Sofala Nhamatanda 125763731 0701301355055C Licenciado Engenharia Civil Assistente Estagiário Escalão 1 docente Tempo inteiro Pertence ao quadro Moçambique
+62 Paulino Maximiano Mandlate Masculino 23/03/1989 Maputo Cidade da Matola 119757827 100101303554Q Licenciado Física Assistente Escalão 1 docente Tempo inteiro Pertence ao quadro Moçambique
+63 Pedro Joaquim Cantiole Masculino 08/05/1984 Sofala Caia 113054026 110101185797P Licenciado Matemática Assistente Estagiário Escalão 3 docente Tempo inteiro Pertence ao quadro Moçambique
+64 Petrosse Agostinho Guambe Masculino 23/06/1987 Maputo Cidade de Maputo 109695051 110101046920Q Mestrado Gestão de Sist. Energias Renováveis Assistente Estagiário Escalão 2 docente Tempo inteiro Pertence ao quadro Moçambique
+65 Pita Naissone Pita Jasse Masculino 06/01/1992 Tete Cahora-Bassa 113774835 050100757504P Licenciado Ciência de informação Geográfica Assistente Estagiário Escalão 3 docente Tempo inteiro Pertence ao quadro Moçambique
+66 Puiemuene Caetano Namucaro Femenina 05/08/1988 Tete Tete 114128368 050104212555B Licenciada Economia Assistente Estagiário Escalão 2 docente Tempo inteiro Pertence ao quadro Moçambique
+67 Quelita Alberto Muavanhane Femenina 14/08/1987 Tete Cidade de Tete 121855542 110104334249B Licenciada Contabilidade e Auditoria Assistente Estagiário Escalão 2 docente Tempo inteiro Pertence ao quadro Moçambique
+68 Rassul Felizardo Buramo Rassul Masculina 01/09/1993 Inhambane Maxixe 120124145 070102242851B Licenciado Engenharia Termotécnica Assistente Estagiário Escalão 1 docente Tempo inteiro Pertence ao quadro Moçambique
+69 Remêncio Alexandre Muholove Masculino 18/09/1985 Maputo Cidade de Maputo 116241651 110101675054P Licenciado Português Assistente Estagiário Escalão 3 docente Tempo inteiro Pertence ao quadro Moçambique
+70 Ricardo Manuel Masculino 28/08/1976 Maputo Cidade de Maputo 102946154 110105520564Q Mestrado Física Assistente Escalão 1 docente Tempo inteiro Pertence ao quadro Moçambique
+71 Sérgio Manuel Masculino 05//06/1985 Manica Chimoio 104550398 060905791635P Licenciado Engenharia Termotécnica Assistente Estagiário Escalão 2 docente Tempo inteiro Pertence ao quadro Moçambique
+72 Valder de Sousa Jofreia Fombe Masculino 30/09/1992 Tete Moatize 153271488 050102854434C Licenciado Engenharia Eléctrica Assistente Estagiário Escalão 1 docente Tempo inteiro Pertence ao quadro Moçambique
+73 Vasco Zacarias Govene Masculino 30/10/1984 Gaza Massingir 109803804 110100070130C Mestrado Engenharia Hidráulica Assistente Estagiário Escalão 3 docente Tempo inteiro Pertence ao quadro Moçambique
+74 Veca Luís Vicente Masculino 11/11/1989 Tete Angónia 117780880 030100600456B Mestrado Informática Assistente Estagiário Escalão 3 docente Tempo inteiro Pertence ao quadro Moçambique
+75 Verónica Anastância R. Wamusse Femenino 23/01/1987 Maputo Cidade de Maputo 110149174 110102754713S Mestrado Engenharia Eléctrica Assistente Escalão 1 docente Tempo inteiro Pertence ao quadro Moçambique
+76 Virgílio Mendes Fijamo Masculino 14/03/1983 Zambézia Quelimane 103736201 020100304218c Mestrado Engenharia Informatica Assistente Escalão 1 docente Tempo inteiro Pertence ao quadro Moçambique

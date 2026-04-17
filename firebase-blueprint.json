@@ -1,0 +1,25 @@
+{
+  "entities": {
+    "Documento": {
+      "title": "Documento",
+      "description": "Um documento da instituição.",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "nome": { "type": "string" },
+        "tipo": { "type": "string" },
+        "caminho": { "type": "string" },
+        "formato": { "type": "string" },
+        "isRascunho": { "type": "boolean" },
+        "criadoEm": { "type": "string", "format": "date" }
+      },
+      "required": ["nome", "tipo", "caminho", "formato", "isRascunho"]
+    }
+  },
+  "firestore": {
+    "/documentos/{tipo}/{documentoId}": {
+      "schema": "Documento",
+      "description": "Documentos organizados por tipo."
+    }
+  }
+}

@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Bookman Old Style", "Libre Baskerville", serif;
+  --font-sans: "Bookman Old Style", ui-sans-serif, system-ui, sans-serif;
+}
+
+@layer utilities {
+  .custom-scrollbar::-webkit-scrollbar {
+    width: 6px;
+  }
+  .custom-scrollbar::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    background: #e67e22;
+    border-radius: 10px;
+  }
+  .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: #d35400;
+  }
+}
+
+@layer base {
+  body {
+    @apply text-black;
+    /* Improve text rendering and sharpness */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    touch-action: pan-x pan-y;
+    overscroll-behavior: none;
+  }
+}
+
+/* Telefones pequenos */
+@media (max-width: 360px) {
+  .monografia-page {
+    padding: 1rem !important;
+    min-height: auto !important;
+    height: auto !important;
+  }
+  .monografia-title {
+    font-size: 1.25rem !important;
+  }
+  .monografia-text {
+    font-size: 0.875rem !important;
+  }
+  .hide-on-small {
+    display: none !important;
+  }
+}
+
+/* Telefones médios */
+@media (max-width: 414px) {
+  .monografia-page {
+    padding: 1.5rem !important;
+  }
+  .monografia-title {
+    font-size: 1.5rem !important;
+  }
+  .stack-on-mobile {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    grid-template-columns: 1fr !important;
+    gap: 0.5rem !important;
+  }
+}
+
+/* Telefones grandes */
+@media (max-width: 600px) {
+  .monografia-page {
+    padding: 2rem !important;
+    margin-bottom: 1rem !important;
+  }
+  .monografia-container {
+    padding: 0.5rem !important;
+  }
+  .full-width-mobile {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+}
